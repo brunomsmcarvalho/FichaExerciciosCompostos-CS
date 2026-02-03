@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Ficha1.1/Ficha1.1.csproj" Id="7a11d67b-de5a-431a-89d0-83b65358ac90" />
+  <Project Path="Ficha1.2/Ficha1.2.csproj" Id="3b54adf8-7eac-47f2-bd4b-345b90fe6812" />
+  <Project Path="Ficha1.3/Ficha1.3.csproj" />
+  <Project Path="Ficha1.4/Ficha1.4.csproj" Id="245d683a-477a-40f8-a038-b8d16082a2fc" />
+  <Project Path="Ficha1.5/Ficha1.5.csproj" Id="d6f0ce8c-f8a3-45e8-a803-4740cb1807e5" />
+  <Project Path="Ficha1.6/Ficha1.6.csproj" Id="7851180a-c487-460e-b652-e21682b31fe3" />
+  <Project Path="Ficha1.7/Ficha1.7.csproj" Id="475659f0-c458-426c-96b4-b5b3c3296390" />
+</Solution>
